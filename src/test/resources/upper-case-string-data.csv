@@ -1,0 +1,4 @@
+input,expected
+foo,FOO
+bAr,BAR
+f00 b4r,F00 B4R
